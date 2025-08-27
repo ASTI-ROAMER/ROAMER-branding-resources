@@ -1,7 +1,9 @@
 # ROAMER BRANDING
 
+![ROAMER Monogram Logo](./MASTERFILE/logo.png "ROAMER Logo")
+
 ## About the Logo
-The logo is a top view of a ground based mobile robot traversing a terrain leaving tracks that will form the letter R.
+The logo is a monogram top view of a ground based mobile robot traversing a terrain leaving tracks that will form the letter R.
 
 The mobile robot is based on a simplified approximation of the robot used during the R&D phase of the project. Yellow outlines based from the DOST-ASTI colors with a lidar puck at the center using the blue/teal of the DOST logo which represents progress.
 
